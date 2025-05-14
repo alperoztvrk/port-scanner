@@ -3,8 +3,8 @@ import sys
 import socket
 from datetime import datetime
 
-roman = pyfiglet.figlet_format("Port Scanner")
-print(roman)
+ascii_banner = pyfiglet.figlet_format("Port Scanner")
+print(ascii_banner)
 
 #Define the target
 
