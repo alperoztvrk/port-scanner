@@ -44,6 +44,7 @@ Clone the repository and install the required library:
 git clone https://github.com/alperoztvrk/port-scanner.git
 cd port-scanner
 pip install -r requirements.txt
+```
 
 ---
 
